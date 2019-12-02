@@ -6,13 +6,11 @@ by Habiba Khedr
 ## Git vs. GitHub
 
  ## Git|Github
- --------------------------------------------------------
-    * enables you to work on and   | * It is web-based 
-      keeps track of your code.    | * It stores your information
-    * It is a Version Control System | in cloud
-      which leeps a snapshot of your work | * Allows you to easily work
-    * It doesn't require Github|  with others.
-                               |* Tracks your changes
+ ---------------------------- | ----------------------------
+ Enables you to work on and keeps track of your code | It is web-based 
+ It is a Version Control System which keeps a snapshot of your work | It stores your information in cloud
+ It doesn't require Github | Allows you to easily work with others.
+ | Tracks your changes
     
  ![alt text](git-vs-github.png)
  
