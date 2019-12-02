@@ -11,9 +11,9 @@ by Habiba Khedr
     * It is a Version Control System                  in cloud
       which leeps a snapshot of your work           * Allows you to easily work
     * It doesnt require Github                        with others.
-                                                    * Tracks your chnages
+                                                    * Tracks your changes
     
- ![git vs github](//http:github-learning/github-tutorial/git-vs-github.png)
+ ![Alt text](http:github-learning/github-tutorial/git-vs-github.png "Git vs Github")
  
  
  
