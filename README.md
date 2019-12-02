@@ -13,7 +13,7 @@ by Habiba Khedr
     * It doesnt require Github                        with others.
                                                     * Tracks your changes
     
- ![git vs github](https:/github-tutorial/blob/master/git-vs-github.png)
+![Git vs Github logo](http://octodex.github.com/images/git-vs-github.png)
  
  
  
