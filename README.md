@@ -13,7 +13,7 @@ by Habiba Khedr
     * It doesnt require Github                        with others.
                                                     * Tracks your changes
     
- ![git vs github](/github-learning/github-tutorial/git-vs-github.png)
+ ![git vs github](https:/github-tutorial/blob/master/git-vs-github.png)
  
  
  
@@ -77,7 +77,7 @@ Both of these commands can be used when you are done making your changes and wan
 * Be sure that th message that you type in shoulde be in present tense, short, and what you changed.
 
 When you have a local and remote repo the two command below will be very important to know:
-* `git push`: This command sends the chnages from the local repo to the remote repo.
+* `git push`: This command sends the changes from the local repo to the remote repo.
 
 You are proablly wondering where you are pushing your commits to. You will have to follow the steps below:
 1. Make a new repository (if you dont remember how to do so to scroll up to the scetion before)
