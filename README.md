@@ -13,7 +13,7 @@ by Habiba Khedr
     * It doesn't require Github                        with others.
                                                     * Tracks your changes
     
-                          ![alt text](git-vs-github.png)
+ ![alt text](git-vs-github.png)
  
  
  
@@ -91,7 +91,7 @@ You are proablly wondering where you are pushing your commits to. You will have 
 9. Now you should click on the bitton that says "Create Repository "
 10. You should now havn been taken to a new page.
 11. On that page you should see somthing like this : 
-              *![alt text](code.PNG)
+              ![alt text](code.PNG)
 
 
 
