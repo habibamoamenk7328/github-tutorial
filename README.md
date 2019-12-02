@@ -5,12 +5,12 @@ by Habiba Khedr
 ---
 ## Git vs. GitHub
 
- ## Git                                         Github
+ ## Git                                             Github
     * enables you to work on and                    * It is web-based 
       keeps track of your code.                     * It stores your information
     * It is a Version Control System                  in cloud
       which leeps a snapshot of your work           * Allows you to easily work
-    * It doesnt require Github                        with others.
+    * It doesn't require Github                        with others.
                                                     * Tracks your changes
     
 ![Git vs Github logo](http://octodex.github.com/images/git-vs-github.png)
@@ -22,27 +22,27 @@ by Habiba Khedr
 
 ---
 ## Initial Setup
-To make a github account folow the steps below:
+To make a Github account follow the steps below:
 1. Go to [https://github.com/]( https://github.com/)
-2. On the right top corner you will see a "sign Up" button. Click on it 
+2. On the top right corner you will see a "sign Up" button. Click on it 
 3. Now you will see a page  that says "create your account". 
 4. Type in your username (if you are a HSTAT student use school email)
 5. Type in password
-6. Verify account by slocing a quick puzzle.
+6. Verify account by solving a quick puzzle.
 7. Click the blue button on the bottom of the page to continue
 8. Choose your plan
 9. Then answer the 3 questions (or you can skip this step)
 10. After done answering the questions click the button that says "Complete setup"
-11. Verify your email adress
-12. Now you have a github account.
+11. Verify your email address
+12. Now you have a GitHub account.
 
 Now to set up your ide follow the steps below.
 1. Start out with going to [ide.cs50.io](ide.cs50.io)
-2. Login with your github account 
+2. Login with your GitHub account 
 3. Then go to this link and follow every step [https://github.com/hstatsep/ide50](https://github.com/hstatsep/ide50)
 4. Now you have your ide set up for you.
 
-As you were setting up your ide you set up an SSH Key between your ide and Github which is really important for you to have. When working with a GitHub repository, you'll often need to identify yourself to GitHub using your username and password. An SSH key is an efficent way to identify yourself that doesn't require you to enter you username and password every time.
+As you were setting up your ide you set up an SSH Key between your ide and Github which is really important for you to have. When working with a GitHub repository, you'll often need to identify yourself to GitHub using your username and password. An SSH key is an efficient way to identify yourself that doesn't require you to enter you username and password every time.
 
 
 ---
@@ -87,9 +87,11 @@ You are proablly wondering where you are pushing your commits to. You will have 
 5. On the top tight of yur scrfeen you will see a plus icon. Click it.
 6. Then click on create new repository
 7. The name of your repository should always match the name of your repository in your ide.
-8. Now click on the button that says "create repository" 
-9. Now you should be on a a new page
-10. 
+8. Now make sure that wher is say "Initalize this repositpry with a README" is off 
+9. Now you should click on the bitton that says "Create Repository "
+10. You should now havn been taken to a new page.
+11. On that page you should see somthing like this : 
+              *![alt text](code.PNG)
 
 
 
