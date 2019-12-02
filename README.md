@@ -13,7 +13,7 @@ by Habiba Khedr
     * It doesnt require Github                        with others.
                                                     * Tracks your changes
     
- ![Alt text](http:github-learning/github-tutorial/git-vs-github.png "Git vs Github")
+ ![git vs github](http:/github-learning/github-tutorial/git-vs-github.png)
  
  
  
