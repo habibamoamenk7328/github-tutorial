@@ -5,14 +5,14 @@ by Habiba Khedr
 ---
 ## Git vs. GitHub
 
- ## Git|Github
- ---------------------------- | ----------------------------
- Enables you to work on and keeps track of your code | It is web-based 
- It is a Version Control System which keeps a snapshot of your work | It stores your information in cloud
- It doesn't require Github | Allows you to easily work with others.
- | Tracks your changes
+ ## |Git |Github |
+    |------------------------------------|------------------------ |
+    |enables you to work on and keeps track of your code. | It is web-based| 
+    |It is a Version Control System which keeps a snapshot of your work |It stores your information in cloud|
+    |It doesn't require Github | Allows you to easily work|
+    | |Tracks your changes|
     
- ![alt text](git-vs-github.png)
+![Git vs Github logo](http://octodex.github.com/images/git-vs-github.png)
  
  
  
@@ -86,11 +86,9 @@ You are proablly wondering where you are pushing your commits to. You will have 
 5. On the top tight of yur scrfeen you will see a plus icon. Click it.
 6. Then click on create new repository
 7. The name of your repository should always match the name of your repository in your ide.
-8. Now make sure that wher is say "Initalize this repositpry with a README" is off 
-9. Now you should click on the bitton that says "Create Repository "
-10. You should now havn been taken to a new page.
-11. On that page you should see somthing like this : 
-              ![alt text](code.PNG)
+8. Now click on the button that says "create repository" 
+9. Now you should be on a a new page
+10. 
 
 
 
