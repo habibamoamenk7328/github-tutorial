@@ -12,7 +12,7 @@ by Habiba Khedr
 | It doesn't require Github | Allows you to easily work with others |
 |  | Tracks your changes |
 
-                              ![Alt Text](git-vs-github.png)
+   ![Alt Text](git-vs-github.png)
 
  
  
@@ -94,6 +94,7 @@ You are proablly wondering where you are pushing your commits to. You will have 
      ![Alt Text](code.PNG)
 11. If that is what you see go ahead and copy this part :
     ![Alt Text](git-push.PNG)
+
 Yours should look like this but with your username and also make sure that you have the SSH Key turned on.
 12. Go ahead and past that in your command line and press enter.
 13. Now when you make changes in your README.md just add and commit and use `git push`. This will make all the changes go to your GitHub account which makes ir more efficient for you.
