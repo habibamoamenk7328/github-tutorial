@@ -12,7 +12,7 @@ by Habiba Khedr
 | It doesn't require Github | Allows you to easily work with others |
 |  | Tracks your changes |
 
-![Alt Text](git-vs-github.png)
+                              ![Alt Text](git-vs-github.png)
 
  
  
@@ -78,6 +78,7 @@ Both of these commands can be used when you are done making your changes and wan
 
 When you have a local and remote repo the two command below will be very important to know:
 * `git push`: This command sends the changes from the local repo to the remote repo.
+* `git pull`: This command pulls commits from GitHub which menas that it brings down all the changes from the remote repo to the local repo.
 
 You are proablly wondering where you are pushing your commits to. You will have to follow the steps below:
 1. Make a new repository (if you dont remember how to do so to scroll up to the scetion before)
@@ -91,7 +92,11 @@ You are proablly wondering where you are pushing your commits to. You will have 
 9. Now click on the button that says "create repository" 
 10. You should be taken to a new page that looks like this :
      ![Alt Text](code.PNG)
-
+11. If that is what you see go ahead and copy this part:
+    ![Alt Text](git push.PNG)
+Yours should look like this but with your username and also make sure that you have the SSH Key turned on.
+12. Go ahead and past that in your command line and press enter.
+13. Now when you make changes in your README.md just add and commit and use `git push`. This will make all the changes go to your GitHub account.
 
 
 
