@@ -12,8 +12,8 @@ by Habiba Khedr
 | It doesn't require Github | Allows you to easily work with others |
 |  | Tracks your changes |
 
- 
-![Git vs Github logo](http://octodex.github.com/images/git-vs-github.png)
+![Alt Text](git-vs-github.png)
+
  
  
  
@@ -87,9 +87,11 @@ You are proablly wondering where you are pushing your commits to. You will have 
 5. On the top tight of yur scrfeen you will see a plus icon. Click it.
 6. Then click on create new repository
 7. The name of your repository should always match the name of your repository in your ide.
-8. Now click on the button that says "create repository" 
-9. Now you should be on a a new page
-10. 
+8. Make sure that you have "Intalize this repository with a README" off.
+9. Now click on the button that says "create repository" 
+10. You should be taken to a new page that looks like this :
+     ![Alt Text](code.PNG)
+
 
 
 
