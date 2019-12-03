@@ -106,5 +106,8 @@ Yours should look like this but with your username and also make sure that you h
 
 It is normal that we make mistakes but it is important to learn and fix them. Below ar a list of command that you should know in case you make a mistake so you can easily undo it.
 1. To undo `add` you can just use `git status`. when we first type `git status` in when you add the file to the stage it turns green but if you write `git status` agian after it should turn red and that menas that it is off the stage.
-   * You should know this in case you the wrong or more than one file to the stage so then you can easily remove it.
-2.To undo edits you will have to know a few commands. First you would start out by typing in git status and then if you read what it says you will realize that it tells you what to type in next
+* You should know this in case you the wrong or more than one file to the stage so then you can easily remove it.
+2.To undo edits you will have to know a few commands. First you would start out by typing in git status and then if you read what it says you will realize that it tells you what to type in next. It should look something like this :
+  ![Alt Text](edits.PNG)
+* `git checkout -- file `: Lets say after you have just changed what was in your file and then look through it and realize that you like the old version. You can use this command and it will unedit your file.
+* 
