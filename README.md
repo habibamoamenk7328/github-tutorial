@@ -14,9 +14,9 @@ by Habiba Khedr
 
    ![Alt Text](git-vs-github.png)
 
- 
- 
- 
+
+
+
 
 
 
@@ -24,8 +24,8 @@ by Habiba Khedr
 ## Initial Setup
 To make a Github account follow the steps below:
 1. Go to [https://github.com/]( https://github.com/)
-2. On the top right corner you will see a "sign Up" button. Click on it 
-3. Now you will see a page  that says "create your account". 
+2. On the top right corner you will see a "sign Up" button. Click on it
+3. Now you will see a page  that says "create your account".
 4. Type in your username (if you are a HSTAT student use school email)
 5. Type in password
 6. Verify account by solving a quick puzzle.
@@ -38,7 +38,7 @@ To make a Github account follow the steps below:
 
 Now to set up your ide follow the steps below.
 1. Start out with going to [ide.cs50.io](ide.cs50.io)
-2. Login with your GitHub account 
+2. Login with your GitHub account
 3. Then go to this link and follow every step [https://github.com/hstatsep/ide50](https://github.com/hstatsep/ide50)
 4. Now you have your ide set up for you.
 
@@ -68,7 +68,7 @@ The commands below are all typed in the command line and are ones that you will 
 * If done in the wrong or root directory you can use the command `rm -rf .git`. This command can just be typed in and it will unintialize git.
 
 `git status`: This command should always be used when coding because it allows you to see what ypou have just done. For instance if you just added something.This command will always be useful to anyone when coding to check if the code that they are typing is actually doing what the want.
- 
+
 Both of these commands can be used when you are done making your changes and want to add them so that they can be saved to the stage:
 * `git add .`: This command adds all of the changes that you have just made to your files to the stage.
 * `git add file.ext `: This command adds files to the stage to be committed.
@@ -89,7 +89,7 @@ You are proablly wondering where you are pushing your commits to. You will have 
 6. Then click on create new repository
 7. The name of your repository should always match the name of your repository in your ide.
 8. Make sure that you have "Intalize this repository with a README" off.
-9. Now click on the button that says "create repository" 
+9. Now click on the button that says "create repository"
 10. You should be taken to a new page that looks like this :
      ![Alt Text](code.PNG)
 11. If that is what you see go ahead and copy this part :
@@ -105,3 +105,6 @@ Yours should look like this but with your username and also make sure that you h
 ## Rolling Back Changes
 
 It is normal that we make mistakes but it is important to learn and fix them. Below ar a list of command that you should know in case you make a mistake so you can easily undo it.
+1. To undo `add` you can just use `git status`. when we first type `git status` in when you add the file to the stage it turns green but if you write `git status` agian after it should turn red and that menas that it is off the stage.
+   * You should know this in case you the wrong or more than one file to the stage so then you can easily remove it.
+2.To undo edits you will have to know a few commands. First you would start out by typing in git status and then if you read what it says you will realize that it tells you what to type in next
