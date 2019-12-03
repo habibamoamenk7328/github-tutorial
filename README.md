@@ -7,7 +7,7 @@ by Habiba Khedr
 
 | Git | Github |
 | --- | --- |
-| enables you to work on and keeps track of your code | It is web-based |
+| Enables you to work on and keep track of your code | It is web-based |
 | It is a Version Control System which keeps a snapshot of your work  | It stores your information in cloud |
 | It doesn't require Github | Allows you to easily work with others |
 |  | Tracks your changes |
