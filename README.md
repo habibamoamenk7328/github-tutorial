@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-by Habiba Khedr
+by *Habiba Khedr*
 
 ---
 ## Git vs. GitHub
