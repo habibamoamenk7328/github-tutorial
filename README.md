@@ -47,15 +47,15 @@ As you were setting up your ide you set up an SSH Key between your ide and Githu
 
 ---
 ## Repository Setup
-After setting up both your ide and Github accountyo can start yo create reposistories.
+After setting up both your ide and Github account you can go on start creating reposistories.
 1. Choose or make a directory
-2. Now to intialize git ti turn it into a repository type `git init`in the command line.
+2. Now to intialize git you need to type `git init` and the directory will turn into a repoistory
 3. Make a new file by typing in `touch "filename"`in the command line.
 4. Now type `c9 "filename"` to open your file.
-5. Once you have done that try typing anything you want
+5. try editing inside the file. 
 6. After you are done with the changes you have made go back to the command line and type `git add .`
 7. Then type `git commit -m "short message`. The message that you should type in should be short and in present tense.It would also be good if you write what you have changed at that point.
-8. As you keep editing your file dont forget to add and commit.
+8. As you keep editing your file don't forget to add and commit.
 9. you should also use git statu alot as you are coding and making chnages to keep track of what you are doing.
 
 
@@ -105,7 +105,7 @@ Yours should look like this but with your username and also make sure that you h
 ## Rolling Back Changes
 
 It is normal that we make mistakes but it is important to learn and fix them. Below ar a list of command that you should know in case you make a mistake so you can easily undo it.
-1. To undo `add` you can just use `git status`. when we first type `git status` in when you add the file to the stage it turns green but if you write `git status` agian after it should turn red and that menas that it is off the stage.
+1. To undo `add` you can just use `git reset HEAD filename`. when we first type `git status` in when you add the file to the stage it turns green but if you write `git status` agian after it should turn red and that menas that it is off the stage.
 * You should know this in case you the wrong or more than one file to the stage so then you can easily remove it.
 2.To undo edits you will have to know a few commands. First you would start out by typing in git status and then if you read what it says you will realize that it tells you what to type in next. It should look something like this :
   ![Alt Text](edits.PNG)
